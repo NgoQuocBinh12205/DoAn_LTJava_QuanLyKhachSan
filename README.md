@@ -1,4 +1,4 @@
-**HUONG DAN KET NOI**
+# HUONG DAN KET NOI
 
 1.Chay DB bang MySQL
 
