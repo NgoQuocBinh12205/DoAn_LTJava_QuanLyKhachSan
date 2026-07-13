@@ -1,3 +1,5 @@
+**Huong dan ket noi**
+
 1.Chay DB bang MySQL
 
 2.Su dung IntelliJ IDEA de lap trinh
